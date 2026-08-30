@@ -34,14 +34,21 @@ La estructura recomendada para dar por terminado un módulo es:
 - [ ] Ejercicios
 - [ ] Evaluación
 
-### [[04 - Windows]]
+### [[04 - Python]]
 - [ ] Teoría
 - [ ] Lectura complementaria
 - [ ] Laboratorio
 - [ ] Ejercicios
 - [ ] Evaluación
 
-### [[05 - Security Fundamentals]]
+### [[05 - Criptografía]]
+- [ ] Teoría
+- [ ] Lectura complementaria
+- [ ] Laboratorio
+- [ ] Ejercicios
+- [ ] Evaluación
+
+### [[06 - Windows]]
 - [ ] Teoría
 - [ ] Lectura complementaria
 - [ ] Laboratorio
@@ -52,35 +59,28 @@ La estructura recomendada para dar por terminado un módulo es:
 
 ## 🟡 Nivel Intermediate
 
-### [[06 - Cryptography]]
+### [[07 - Web Hacking]]
 - [ ] Teoría
 - [ ] Lectura complementaria
 - [ ] Laboratorio
 - [ ] Ejercicios
 - [ ] Evaluación
 
-### [[07 - Network Security]]
+### [[08 - Metasploit]]
 - [ ] Teoría
 - [ ] Lectura complementaria
 - [ ] Laboratorio
 - [ ] Ejercicios
 - [ ] Evaluación
 
-### [[08 - Identity & Access]]
+### [[09 - Red Team y OSINT]]
 - [ ] Teoría
 - [ ] Lectura complementaria
 - [ ] Laboratorio
 - [ ] Ejercicios
 - [ ] Evaluación
 
-### [[09 - Web Security]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[10 - Programming & Scripting]]
+### [[10 - Active Directory]]
 - [ ] Teoría
 - [ ] Lectura complementaria
 - [ ] Laboratorio
@@ -98,56 +98,14 @@ La estructura recomendada para dar por terminado un módulo es:
 
 ## 🟡/🔴 Nivel Intermediate to Advanced
 
-### [[12 - Offensive Security]]
+### [[12 - Hacking Inalámbrico]]
 - [ ] Teoría
 - [ ] Lectura complementaria
 - [ ] Laboratorio
 - [ ] Ejercicios
 - [ ] Evaluación
 
-### [[13 - Defensive Security]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[14 - SOC & SIEM]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[15 - Incident Response]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[18 - Threat Intelligence]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[19 - Active Directory]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[20 - Cloud Security]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[22 - GRC]]
+### [[13 - Cierre y Certificaciones]]
 - [ ] Teoría
 - [ ] Lectura complementaria
 - [ ] Laboratorio
@@ -156,60 +114,27 @@ La estructura recomendada para dar por terminado un módulo es:
 
 ---
 
-## 🔴 Nivel Advanced
+## 📚 Referencia Rápida
 
-### [[16 - DFIR]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
+### [[14 - Arsenal Hacker]]
+- [ ] Explorar categorías
+- [ ] Practicar comandos
 
-### [[17 - Malware Analysis]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
+---
 
-### [[21 - DevSecOps]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
+## 📝 Evaluaciones
 
-### [[23 - Security Architecture]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[24 - Red Team]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
-
-### [[25 - Blue Team]]
-- [ ] Teoría
-- [ ] Lectura complementaria
-- [ ] Laboratorio
-- [ ] Ejercicios
-- [ ] Evaluación
+### [[15 - Evaluaciones]]
+- [ ] Completar todas las evaluaciones
+- [ ] Revisar respuestas
 
 ---
 
 ## 🏗️ Proyectos (Portfolio)
 
-- [ ] [[Proyecto 01 - Home Cybersecurity Lab]]
-- [ ] [[Proyecto 02 - Network Security Assessment]]
-- [ ] [[Proyecto 03 - Vulnerability Assessment]]
-- [ ] [[Proyecto 04 - SOC Básico]]
-- [ ] [[Proyecto 05 - Incident Response]]
-- [ ] [[Proyecto 06 - Web Security Assessment]]
-- [ ] [[Proyecto 07 - Active Directory Security Lab]]
-- [ ] [[Proyecto 08 - Cloud Security Lab]]
-- [ ] [[Proyecto Final - Infraestructura Empresarial]]
+- [ ] Crear laboratorio casero de ciberseguridad
+- [ ] Realizar assessment de red
+- [ ] Realizar assessment web
+- [ ] Configurar SOC básico
+- [ ] Documentar incidente de seguridad
+- [ ] Crear portafolio profesional

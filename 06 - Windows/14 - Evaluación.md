@@ -4,7 +4,7 @@
 Evaluación final del módulo. Múltiples preguntas basadas en arquitecturas de Microsoft, ataques de Active Directory y manejo de procesos.
 Anotá tus respuestas y luego verificalas con el solucionario.
 
-> **Importante:** Las respuestas correctas y explicaciones están en: `[[29 - Evaluaciones/Respuestas/Módulo 06 - Respuestas]]`.
+> **Importante:** Las respuestas correctas y explicaciones están en: `[[15 - Evaluaciones/Respuestas/Módulo 06 - Respuestas]]`.
 
 ---
 

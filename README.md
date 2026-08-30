@@ -32,11 +32,12 @@ CyberSecurity-ROADMAP/
 ├── 03 - Linux/                       ← Filesystem, Permisos, Bash, SUID.
 ├── 04 - Python/                      ← Scripting ofensivo, Automatización.
 ├── 05 - Criptografía/                ← Simétrica, Asimétrica, Hashes, SSL.
-├── 06 - Windows/                     ← PowerShell, Registro, Permisos locales.
+├── 06 - Windows/                     ← PowerShell, Registro, Active Directory.
 ├── 07 - Web Hacking/                 ← Burp Suite, SQLi, XSS, OWASP Top 10.
 ├── 08 - Metasploit/                  ← Payloads, Bind/Reverse Shells, Pivoting.
 ├── 09 - Red Team y OSINT/            ← Kill Chain, MITRE ATT&CK, C2, Phishing.
 ├── 10 - Active Directory/            ← BloodHound, Kerberos, DCSync, PTH.
+├── 11 - Vulnerability Management/    ← CVE, CVSS, CWE, Escaneo, Parches.
 ├── 12 - Hacking Inalámbrico/         ← WPA2, Aircrack-ng, Evil Twin, Mobile.
 ├── 13 - Cierre y Certificaciones/    ← Mercado Laboral, OSCP, HTB, Portafolio.
 ├── 14 - Arsenal Hacker/              ← Diccionario rápido (Top 50 Herramientas).

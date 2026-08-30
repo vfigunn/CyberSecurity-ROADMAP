@@ -4,7 +4,7 @@
 Evaluación final del módulo. Múltiples preguntas basadas en arquitecturas web modernas, el protocolo HTTP, las APIs y el Top 10 de OWASP.
 Anotá tus respuestas y luego verificalas con el solucionario.
 
-> **Importante:** Las respuestas correctas y explicaciones están en: `[[29 - Evaluaciones/Respuestas/Módulo 07 - Respuestas]]`.
+> **Importante:** Las respuestas correctas y explicaciones están en: `[[15 - Evaluaciones/Respuestas/Módulo 07 - Respuestas]]`.
 
 ---
 

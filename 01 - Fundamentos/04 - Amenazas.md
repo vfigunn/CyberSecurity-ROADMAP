@@ -70,7 +70,8 @@ Una **APT (Advanced Persistent Threat - Amenaza Persistente Avanzada)** es un ti
 - El concepto de Insider Threat.
 
 ## 💡 Good to Know (Bueno saberlo)
-- El Modelado de Amenazas es el proceso sistemático de identificar amenazas y vulnerabilidades potenciales antes de que el sistema se construya. Frameworks famosos para esto son STRIDE (desarrollado por Microsoft).
+- El Modelado de Amenazas es el proceso sistemático de identificar amenazas y vulnerabilidades potenciales antes de que el sistema se construya.
+- Frameworks famosos para esto son STRIDE (desarrollado por Microsoft).
 
 ---
 

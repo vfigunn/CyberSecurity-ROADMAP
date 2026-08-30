@@ -38,8 +38,8 @@ Es un término crítico en ciberseguridad. Una vulnerabilidad **Zero-Day** es un
 ## ❓ ¿Por qué importa?
 
 Las vulnerabilidades son el objetivo principal de los analistas de seguridad defensiva y ofensiva. 
-- El [[25 - Blue Team|Blue Team]] (Defensores) busca continuamente vulnerabilidades en sus propios sistemas para parchearlas antes de que sean explotadas (este proceso se conoce como [[11 - Vulnerability Management/01 - CVE|Vulnerability Management]]).
-- El [[24 - Red Team|Red Team / Pentesters]] (Atacantes) busca vulnerabilidades para demostrar que el sistema puede ser comprometido y ayudar a arreglarlo.
+- El **Blue Team** (Defensores) busca continuamente vulnerabilidades en sus propios sistemas para parchearlas antes de que sean explotadas (este proceso se conoce como Vulnerability Management).
+- El **Red Team / Pentesters** (Atacantes) busca vulnerabilidades para demostrar que el sistema puede ser comprometido y ayudar a arreglarlo.
 
 ---
 

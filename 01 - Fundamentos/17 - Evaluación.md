@@ -4,7 +4,7 @@
 Esta es la evaluación final del módulo de Fundamentos. Contiene preguntas de selección múltiple y de análisis de escenarios. 
 Para obtener el mayor provecho, respondé las preguntas anotando tus respuestas y luego verificalas con el archivo de respuestas.
 
-> **Importante:** Las respuestas correctas y las explicaciones de esta evaluación se encuentran en: `[[29 - Evaluaciones/Respuestas/Módulo 01 - Respuestas]]`.
+> **Importante:** Las respuestas correctas y las explicaciones de esta evaluación se encuentran en: `[[15 - Evaluaciones/Respuestas/Módulo 01 - Respuestas]]`.
 
 ---
 

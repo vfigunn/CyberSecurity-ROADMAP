@@ -4,7 +4,7 @@
 Evaluación final de tácticas de inteligencia. Múltiples preguntas basadas en los Frameworks, herramientas de reconocimiento y estructuras de campañas ofensivas.
 Anotá tus respuestas y luego verificalas con el solucionario.
 
-> **Importante:** Las respuestas correctas y explicaciones están en: `[[29 - Evaluaciones/Respuestas/Módulo 09 - Respuestas]]`.
+> **Importante:** Las respuestas correctas y explicaciones están en: `[[15 - Evaluaciones/Respuestas/Módulo 09 - Respuestas]]`.
 
 ---
 

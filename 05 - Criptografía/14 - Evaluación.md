@@ -4,7 +4,7 @@
 Evaluación final del módulo. Múltiples preguntas basadas en arquitecturas criptográficas, el uso adecuado de los algoritmos y los estándares de seguridad modernos.
 Anotá tus respuestas y luego verificalas con el solucionario.
 
-> **Importante:** Las respuestas correctas y explicaciones están en: `[[29 - Evaluaciones/Respuestas/Módulo 05 - Respuestas]]`.
+> **Importante:** Las respuestas correctas y explicaciones están en: `[[15 - Evaluaciones/Respuestas/Módulo 05 - Respuestas]]`.
 
 ---
 

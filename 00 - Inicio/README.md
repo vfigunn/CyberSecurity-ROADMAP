@@ -64,9 +64,9 @@ Para empezar, leé la [[00 - Guía de Laboratorios]].
 
 Cada módulo termina con una evaluación para poner a prueba lo que aprendiste.
 
-- Las evaluaciones están centralizadas en `29 - Evaluaciones/`.
+- Las evaluaciones están centralizadas en `15 - Evaluaciones/`.
 - Hacé las evaluaciones **sin mirar los apuntes** primero.
-- Las respuestas están en `29 - Evaluaciones/Respuestas/`. ¡No hagas trampa!
+- Las respuestas están en `15 - Evaluaciones/Respuestas/`. ¡No hagas trampa!
 
 ---
 

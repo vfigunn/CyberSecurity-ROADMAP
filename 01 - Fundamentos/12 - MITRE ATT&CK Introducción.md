@@ -41,7 +41,7 @@ Representa cómo un grupo de ataque específico (por ejemplo, APT29) ejecuta la 
 
 ## ❓ ¿Por qué importa?
 
-Imaginá que sos un analista defensivo ([[25 - Blue Team|Blue Team]]). Si te enterás de que el grupo cibercriminal APT29 está atacando a empresas de tu sector, podés ir al framework de MITRE ATT&CK, buscar "APT29" y ver exactamente la lista de Técnicas que suelen utilizar. 
+Imaginá que sos un analista defensivo (Blue Team). Si te enterás de que el grupo cibercriminal APT29 está atacando a empresas de tu sector, podés ir al framework de MITRE ATT&CK, buscar "APT29" y ver exactamente la lista de Técnicas que suelen utilizar. 
 
 Con esa lista, podés revisar tus [[08 - Controles de Seguridad|Controles de Seguridad]] y preguntarte: *"¿Tenemos forma de detectar y bloquear ESTAS 10 técnicas específicas?"*. Esto te permite pasar de una defensa reactiva ("esperar a que suene la alarma") a una defensa proactiva (Threat Hunting).
 
@@ -66,7 +66,7 @@ El investigador David Bianco creó la "Pirámide del Dolor" para explicar por qu
 - La diferencia fundamental entre una Táctica (el objetivo) y una Técnica (el método).
 
 ## 💡 Good to Know (Bueno saberlo)
-- Estudiaremos la matriz Enterprise de MITRE ATT&CK en mayor profundidad, incluyendo cómo mapear reglas de detección, en el módulo de [[18 - Threat Intelligence/07 - MITRE ATT&CK en Profundidad|Threat Intelligence (Módulo 18)]].
+- Estudiaremos la matriz Enterprise de MITRE ATT&CK en mayor profundidad en el módulo de [[09 - Red Team y OSINT/05 - Cyber Kill Chain y MITRE ATT&CK|Red Team y OSINT (Módulo 09)]].
 
 ---
 

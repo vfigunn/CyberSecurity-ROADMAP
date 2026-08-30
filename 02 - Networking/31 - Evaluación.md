@@ -4,7 +4,7 @@
 Evaluación final del módulo. Múltiples preguntas basadas en escenarios técnicos y conocimientos "must-know".
 Al igual que en el módulo anterior, anota tus respuestas y luego verificalas con el solucionario.
 
-> **Importante:** Las respuestas correctas y explicaciones están en: `[[29 - Evaluaciones/Respuestas/Módulo 02 - Respuestas]]`.
+> **Importante:** Las respuestas correctas y explicaciones están en: `[[15 - Evaluaciones/Respuestas/Módulo 02 - Respuestas]]`.
 
 ---
 
